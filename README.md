@@ -18,3 +18,8 @@ This project builds a restaurant dataset from the Yelp business file for later c
    pip install -r requirements.txt
 3. Build the processed dataset:
     python src/build_dataset.py
+
+# Yelp Restaurants Project
+
+GitHub Repository:
+https://github.com/R0bert0C4rl0s/yelp-restaurants-project.git
